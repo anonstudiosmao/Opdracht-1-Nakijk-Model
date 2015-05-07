@@ -75,7 +75,7 @@ public class advancedNakijkModel {
 			calcLoop();
 		}
 		if(action.contains("c")){
-			clearClac();
+			clearCalc();
 			calcLoop();
 		}
 		if(action.contains("shutdown")){
